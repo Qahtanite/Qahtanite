@@ -1,4 +1,12 @@
-Saudi Programmer.
+# Qahtanite
+I am a 14 year old programmer from Saudi Arabia.
+
+**Languages**
+- JavaScript
+- CSS
+- HTML
+- PYTHON
+- PHP
 
 <!---
 Qahtanite/Qahtanite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
